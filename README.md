@@ -35,3 +35,4 @@ profissionalmente.
   <img align="right" alt="chuu gif" height="150" width="200" src=https://github.com/floppinho/floppinho/assets/135762344/ab4e6459-a910-45c6-b754-e1ed23f0e6ba
   </div>
   
+##
