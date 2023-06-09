@@ -5,7 +5,7 @@
 profissionalmente.
 - 🌱 Estudando Lógica de programação e Python
 - 📫 Email de contato: victormateus2013@hotmail.com
-- 😄 Pronomes: They/Them
+- 😄 Pronomes: They/them
 <p> 💬 Kpop e gatinhos, ler e jogar.</p>
 
 ##
