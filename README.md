@@ -3,7 +3,7 @@
 
 - 🍨 Não possuo experiência profissional comprovada, porém busco uma oportunidade de trabalho para crescer
 profissionalmente.
-- 🌱 Estudando Lógica de programação e Python
+- 🌱 Estudante de T.I e Desenvolvimento Web, Lógica de programação e Python.
 - 📫 Email de contato: victormateus2013@hotmail.com
 - 😄 Pronomes: He/Him
 <p> 💬 Kpop e gatinhos, ler e jogar.</p>
