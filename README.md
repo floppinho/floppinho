@@ -1,4 +1,4 @@
-<h1 align="center">annyeong!🍡</h1>
+<h1 align="center">welcome!🍡</h1>
 <h2 align="center">Meu nome é Victor Lopes</h2>
 
 - 🍨 Não possuo experiência profissional comprovada, porém busco uma oportunidade de trabalho para crescer
