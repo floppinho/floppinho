@@ -33,7 +33,7 @@ profissionalmente.
   <a href = "mailto:victormateus2013@hotmail.com"><img src="https://img.shields.io/badge/-mail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victor-lopes-7a71b0274/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.freecodecamp.org/portuguese/lopinho" target="_blank"><img src="https://img.shields.io/badge/Freecodecamp-%230A0A23?style=for-the-badge&logo=freecodecamp" target="_blank"></a>
-  <img align="right" alt="hanni dancing" height="300" width="300" src="![bola gato](https://github.com/user-attachments/assets/5e238089-6a82-4306-a706-69f35a516932)"
+  <img align="right" alt="hanni dancing" height="300" width="300" src=
 
 
 
