@@ -2,7 +2,7 @@
 <h2 align="center">My name is Victor Lopes</h2>
 
 - 🍥 No professional experience yet, but looking for an opportunity to grow professionally.
-- 🌱 IT & Web Development student, learning cibersecurity.
+- 🌱 IT & FullStack Development, learning cibersecurity.
 - 📧 Contact email: victormateus2013@hotmail.com
 - 😄 Pronouns: He/Him
 - 💬 code,reading and cats.
