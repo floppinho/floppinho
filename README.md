@@ -17,7 +17,9 @@
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+<img src="https://github.com/user-attachments/assets/4d775d57-34bc-413a-b819-eefbd90c1a81" alt="hanni dancing" align="right" height="150" width="200">
+
 <hr>
 
 <div>
-  <a href="https://www.instagram.co
+  <a href="https://www.instagram.com
