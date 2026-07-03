@@ -2,22 +2,22 @@
 <h2 align="center">My name is Victor Lopes</h2>
 
 - 🍥 No professional experience yet, but looking for an opportunity to grow professionally.
-- 🌱 IT & Web Development student, learning programming logic and Python.
+- 🌱 IT & Web Development student, learning cibersecurity.
 - 📧 Contact email: victormateus2013@hotmail.com
 - 😄 Pronouns: He/Him
-
-<p>💬 code,reading and cats.</p>
+- 💬 code,reading and cats.
 
 <hr>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </div>
+  <img src="https://github.com/user-attachments/assets/4d775d57-34bc-413a-b819-eefbd90c1a81" alt="hanni dancing" height="80" width="110">
 </div>
-
-<img src="https://github.com/user-attachments/assets/4d775d57-34bc-413a-b819-eefbd90c1a81" alt="hanni dancing" align="right" height="150" width="200">
 
 <hr>
 
