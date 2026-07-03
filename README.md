@@ -1,7 +1,8 @@
 <h1 align="center">welcome!</h1>
 <h2 align="center">My name is Victor Lopes</h2>
 
-- 🍥 No professional experience yet, but looking for an opportunity to grow professionally.
+- 🍥 Freelance IT Consultant at G.o.r.G | Full Stack Developer at GoGummy
+· Seeking new opportunities to apply my skills and contribute to challenging environment.
 - 🌱 IT & FullStack Development, learning cibersecurity.
 - 📧 Contact email: victormateus2013@hotmail.com
 - 😄 Pronouns: He/Him
