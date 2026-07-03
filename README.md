@@ -10,13 +10,6 @@
 
 <hr>
 
-<a href="https://github.com/floppinho">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=floppinho&show_icons=true&theme=tokyonight"/>
-</a>
-<a href="https://github.com/floppinho">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=floppinho&hide_progress=true&theme=tokyonight"/>
-</a>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
